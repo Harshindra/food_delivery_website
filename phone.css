@@ -1,0 +1,22 @@
+#navbar,.navItems,.lstItems1,.lstItems2{
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+#navbar{
+    margin-bottom: 2rem;
+    justify-content: center;
+}
+.services{
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.home{
+    margin: 1rem;
+}
+.home p{
+    font-size: 1rem;
+}
+#heading1{
+    font-size: 2rem;
+    padding: 12px;
+}
